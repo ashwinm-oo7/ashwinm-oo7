@@ -46,6 +46,10 @@
 **Built using:** *Power BI | Stock Market & Crypto Analysis*  
 [🔗 Live Preview](https://upstock-in.vercel.app/)  
 
+### 🔹 [Maurya Gallaxy Of Wishes Website in Merns Stack Developer](#)  
+**Built using:** *ReactJS | Nodejs,ExpressJS*  
+[🔗 Live Preview](https://mauryagallaxyofwishes.vercel.app/)  
+
 ### 🔹 [WhatsApp-like Messenger App](#)  
 **Built using:** *React Native | Firebase Authentication & Chat System*  
 **Features:** OTP Verification, Real-Time Chat, User Onboarding  
