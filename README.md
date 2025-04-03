@@ -44,7 +44,7 @@
 
 ### 🔹 [Stock Analysis Dashboard](#)  
 **Built using:** *Power BI | Stock Market & Crypto Analysis*  
-[🔗 Live Preview](#)  
+[🔗 Live Preview](https://upstock-in.vercel.app/)  
 
 ### 🔹 [WhatsApp-like Messenger App](#)  
 **Built using:** *React Native | Firebase Authentication & Chat System*  
